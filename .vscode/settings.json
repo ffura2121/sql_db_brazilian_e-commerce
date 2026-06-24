@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "pet_project",
+            "username": "admin",
+            "name": "conn_from_sqltool",
+            "password": "admin"
+        }
+    ]
+}
